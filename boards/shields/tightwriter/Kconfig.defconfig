@@ -1,0 +1,6 @@
+if SHIELD_TIGHTWRITER
+
+config ZMK_KEYBOARD_NAME
+    default "Tightwriter"
+
+endif

@@ -1,0 +1,8 @@
+file_format: "1"
+id: tightwriter
+name: Tightwriter
+type: shield
+url: https://github.com/takashicompany/tightwriter
+requires: [pro_micro]
+features:
+  - keys
