@@ -8,12 +8,13 @@
 
 ## additional parts for wireless connection
 
-|Part name|Amount|Link|
-|----|----|----|
-|nice!nano compatible board|1|[aliexpress (SuperMini NRF52840)](https://ja.aliexpress.com/item/1005006035267231.html?spm=a2g0o.order_list.order_list_main.5.75ce585aIIqGNS&gatewayAdapt=glo2jpn)|
-|Li-Po battery (301230)|1|[aliexpress](https://ja.aliexpress.com/item/1005005348368664.html?spm=a2g0o.order_list.order_list_main.10.75ce585aIIqGNS&gatewayAdapt=glo2jpn)|
+| Part name                  | Amount | Link                                                                                                                                                               |
+| -------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| nice!nano compatible board | 1      | [aliexpress (SuperMini NRF52840)](https://ja.aliexpress.com/item/1005006035267231.html?spm=a2g0o.order_list.order_list_main.5.75ce585aIIqGNS&gatewayAdapt=glo2jpn) |
+| Li-Po battery (301230)     | 1      | [aliexpress](https://ja.aliexpress.com/item/1005005348368664.html?spm=a2g0o.order_list.order_list_main.10.75ce585aIIqGNS&gatewayAdapt=glo2jpn)                     |
 
 ---
+
 ## keymap
 
 ### Base (Layer 0)
@@ -31,6 +32,10 @@
 ### Layer 3
 
 ![keymap Layer3](./images/layer3.png)
+
+### Layer 4
+
+![keymap Layer4](./images/layer4.png)
 
 ### Combo (Layer 0)
 
