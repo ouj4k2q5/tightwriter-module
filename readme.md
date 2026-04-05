@@ -15,6 +15,17 @@
 
 ---
 
+## build target
+
+This module tracks `zmk` `main`, which uses Zephyr 4.1 and Hardware Model V2.
+For GitHub Actions builds, the controller target is:
+
+`nice_nano@2.0.0//zmk`
+
+This is the explicit Zephyr 4.1 form of the old `nice_nano_v2` target.
+
+---
+
 ## keymap
 
 ### Base (Layer 0)
